@@ -1,0 +1,9 @@
+d:\documents\visual studio 2010\Projects\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+d:\documents\visual studio 2010\Projects\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+d:\documents\visual studio 2010\Projects\TextEditor\TextEditor\bin\Debug\TextEditor.xml
+d:\documents\visual studio 2010\Projects\TextEditor\TextEditor\obj\x86\Debug\TextEditor.Form1.resources
+d:\documents\visual studio 2010\Projects\TextEditor\TextEditor\obj\x86\Debug\TextEditor.Resources.resources
+d:\documents\visual studio 2010\Projects\TextEditor\TextEditor\obj\x86\Debug\TextEditor.vbproj.GenerateResource.Cache
+d:\documents\visual studio 2010\Projects\TextEditor\TextEditor\obj\x86\Debug\TextEditor.exe
+d:\documents\visual studio 2010\Projects\TextEditor\TextEditor\obj\x86\Debug\TextEditor.xml
+d:\documents\visual studio 2010\Projects\TextEditor\TextEditor\obj\x86\Debug\TextEditor.pdb
